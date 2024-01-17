@@ -6,22 +6,6 @@
   <h3 align="center">Netflix Clone</h3>
 </div>
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#prerequests">Prerequests</a>
-    </li>
-    <li>
-      <a href="#which-features-this-project-deals-with">Which features this project deals with</a>
-    </li>
-    <li><a href="#third-party-libraries-used-except-for-react-and-rtk">Third Party libraries used except for React and RTK</a></li>
-    <li>
-      <a href="#contact">Contact</a>
-    </li>
-  </ol>
-</details>
-
 <br />
 
 <div align="center">
@@ -37,7 +21,7 @@
   <p align="center">Watch Page with customer contol bar</p>
 </div>
 
-## Prerequests
+## Prerequisites
 
 - Create an account if you don't have on [TMDB](https://www.themoviedb.org/).
   Because I use its free API to consume movie/tv data.
